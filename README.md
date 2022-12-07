@@ -31,8 +31,8 @@ Database Host: http://localhost:5432
 
 ## 실행 화면
 
-![ex1](./img/pageImage1.jpg)
+![ex1](./img/pageImage3.jpg)
 ![ex2](./img/pageImage2.jpg)
-![ex3](./img/pageImage3.jpg)
+![ex3](./img/pageImage1.jpg)
 
 
