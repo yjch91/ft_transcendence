@@ -31,6 +31,6 @@ Database Host: http://localhost:5432
 
 ## 실행 화면
 
-
+![ex_screenshot](./img/pageimage1.png)
 
 
