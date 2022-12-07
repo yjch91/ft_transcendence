@@ -28,3 +28,9 @@ Docker-compose를 사용하여 빌드합니다.
 REST API Swagger Document: http://localhost:8000
 
 Database Host: http://localhost:5432
+
+## 실행 화면
+
+
+
+
